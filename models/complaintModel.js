@@ -37,7 +37,7 @@ complaintSchema = mongoose.Schema({
 })
 
 complaintSchema.pre(/^find/,function(next){
-    this.populate("student")
+    //this.populate("student")
     next();
 })
 
