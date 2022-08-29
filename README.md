@@ -1,19 +1,22 @@
-# Attendance-Tracker
+# Hostel-Management-Portal
 ## Description
-Attendance Tracker is an app created for student to manage and keep track of their attendance.<br/>
-Student can also keep track of their current day attendance and get useful feedback including:
-- Prediction of number of classes to be attended or leaves that can be taken to fullfill required attendance percentage.
-- Overall attendance stats
-- Daily attendance updates
+Hostel Management System is an app created to enhance the hostel management system.<br/>
+It makes it easy for an organization to keep track of there hostels and resolve the issues with ease.
+- Student can post complaints about the hostel
+- Officers can then easy filter and act on these issues
+
 ## How to use
-The app is up and running : [Attend-op](https://attend-op.herokuapp.com/).<br/>
-The user have to provide a unique user name and set a password.
-He/She is then allowed to :
-- Add subjects
-- Remove subjects
-- Update subjects
-- Update attendance
-- Log out
-- Get useful information from data provided
+The app is up and running : [Hostel-Management-Portal](https://hostel-management-portal.herokuapp.com/).<br/>
+The studets can sign up and log in into the app.
+Officers will use the account provided by the institutions. Dummy accounts to use are:
+- (officer1) officer_id:shaleen  password:12345678
+- (officer2) officer_id:tanmay  password:12345678
+- (officer3) officer_id:alok  password:12345678
+
+The officers then can:
+- accept the complaint
+- reject the complaint
+- escalate the complaint (pass it to the superior)
+
 ### If any query
 If there is any query or bug found in the app, raise an issue with the screenshot attached :)
