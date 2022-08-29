@@ -9,9 +9,9 @@ It makes it easy for an organization to keep track of there hostels and resolve 
 The app is up and running : [Hostel-Management-Portal](https://hostel-management-portal.herokuapp.com/).<br/>
 The studets can sign up and log in into the app.
 Officers will use the account provided by the institutions. Dummy accounts to use are:
-- (officer1) officer_id: shaleen  password: 12345678
-- (officer2) officer_id: tanmay  password: 12345678
-- (officer3) officer_id: alok  password: 12345678
+- (officer1) officer_id: shaleen,  password: 12345678
+- (officer2) officer_id: tanmay,  password: 12345678
+- (officer3) officer_id: alok,  password: 12345678
 
 The officers then can:
 - accept the complaint
